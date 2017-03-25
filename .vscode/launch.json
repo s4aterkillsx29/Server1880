@@ -1,12 +1,10 @@
 {
     "version": "0.2.0",
     "configurations": [{
-
+        
             "internalConsoleOptions": "openOnFirstSessionStart",
             "debugServer": 0,
-            "windows": {
-
-            },
+            "windows": {},
             "preLaunchTask": null,
             "name": "Attach to packager",
             "program": "${workspaceRoot}/.vscode/launchReactNative.js",
@@ -25,8 +23,7 @@
             "preLaunchTask": "",
             "runtimeExecutable": null,
             "env": {},
-            "externalconsole": true
-        },
+            "externalconsole "
         {
             "name": "Attach",
             "type": "mono",
