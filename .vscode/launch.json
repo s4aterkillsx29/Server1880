@@ -25,7 +25,7 @@
             "preLaunchTask": "",
             "runtimeExecutable": null,
             "env": {},
-            "externalConsole": false
+            "externalconsole": true
         },
         {
             "name": "Attach",
